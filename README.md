@@ -5,3 +5,6 @@
 
 <h3>Home/Front screen</h3>
 ![Alt text](https://github.com/JayJeday/website_metricRooms/blob/master/images/homeMR.PNG?raw=true)
+
+<h3>Description screen</h3>
+![Alt text](https://github.com/JayJeday/website_metricRooms/blob/master/images/page2.PNG?raw=true)
