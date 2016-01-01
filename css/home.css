@@ -1,0 +1,207 @@
+.l-nav{
+    font-size: 19px;
+    margin-top: 30px;
+}
+#listNav{
+    margin-left: 60px;
+}
+.img-nav{
+    margin-top: 30px;
+}
+.navbar-custom  {
+    color: darkcyan;
+    background-color: #fff;
+    border-color: darkcyan;
+    -webkit-box-shadow: 0 8px 6px -6px #999;
+    margin-bottom:1px;
+}
+
+.navbar .nav > li > a {
+    color:darkcyan;
+    text-transform: uppercase;
+}
+.navbar .nav > li > a:hover{
+    color: #966F33;
+    text-decoration: underline;
+}
+.navbar .nav > li > a > img {
+    width: 30px;
+    height:25px;
+    -webkit-box-shadow: 0 8px 6px -6px #999;
+    border-radius: 6px;
+    ;
+}
+.slide1 {
+    background-image: url('../images/adolescentes.jpg');
+    height:600px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.slide2 {
+    background-image: url('../images/dormitoriotematico.jpg');
+    height:600px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+
+}
+
+.slide3 {
+    background-image: url('../images/Ni.jpg');
+    height:600px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#firstPage{
+    background-color: #966F33;
+}
+
+.carousel-indicators {
+    bottom: 0;
+}
+.carousel-control.right,
+.carousel-control.left {
+    background-image: none;
+}
+.carousel .item {
+    min-height: 350px;
+    height: 100%;
+    width:100%;
+}
+.carousel-caption h3 {
+    background-color: darkcyan;
+    border-radius: 8px;
+    display: inline-block;
+    color: #fff;
+    border-style: solid ;
+}
+.carousel-caption h3 {
+    padding: .5em;
+}
+.carousel .ani2 {
+    display: inline-block;
+    text-align: center;
+    border-radius: 8px;
+    color: #fff;
+}
+
+/* Animation delays */
+.carousel-caption h3:first-child {
+    -webkit-animation-delay: 1s;
+    animation-delay: 1s;
+}
+.carousel-caption h3:nth-child(2) {
+    -webkit-animation-delay: 2s;
+    animation-delay: 2s;
+}
+#slogan{
+    color: darkcyan;
+    font-family: "Courier New";
+    font-weight: bold;
+    text-align: center;
+}
+.info{
+    font-size: 16px;
+    color: black;
+    margin-top: 20px;
+
+}
+h3{
+   border-bottom: 1px solid darkcyan;
+   border-top: 1px solid darkcyan;
+    padding: 10px;
+    text-align: center;
+    color: #966F33;
+}
+body{
+    background-color:#e0e0e0;
+}
+#page2,#page3,#page4{
+    margin-top: 10px;
+    background-color:#fff;
+    border-radius: 7px;
+    box-shadow: -5px 0 12px -5px #333, 5px 0 12px -5px #333;
+}
+
+#title{
+   border-bottom:1px solid darkcyan;
+}
+.Ex1{
+    margin-top: 10px;
+}
+.Ex2{
+    margin-top: 10px;
+}
+.table_img{
+    width:420px;
+    height: 280px;
+    border-radius: 8px;
+}
+.listD1{
+    margin-left: 60px;
+    padding: 20px;
+}
+.listD2{
+    margin-left: 120px;
+    padding: 20px;
+}
+.listD3{
+    margin-left: 180px;
+    padding: 10px;
+}
+.desc1{
+    color: #FF0080;
+    font-size: 450%;
+    font-family: LoversQuarrel,Georgia,seriff;
+    margin-left: 82px;
+
+}
+.desc2{
+    color: #003366;
+    font-size: 450%;
+    font-family: LoversQuarrel,Georgia,seriff;
+    margin-left: 82px;
+}
+ul{
+    list-style-image: url("../images/check1.png");
+}
+body{
+    font-family: ChuckFive,Georgia,seriff;
+}
+header{
+    margin-top: 20px;
+    border-bottom: 5px solid darkcyan;
+    margin-bottom: 30px;
+}
+#address{
+    margin: 40px;
+    font-size: large;
+}
+#map {
+    width: 800px;
+    height: 400px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-left: 200px;
+}
+.form-group,.form-data{
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
+#btn{
+    margin-top: 40px;
+    margin-bottom: 60px;
+    margin-left: 80px;
+}
+#footer{
+    margin-top: 10px;
+    height: 180px;
+    background-color: darkcyan;
+    -webkit-box-shadow: 0 8px 6px 10px #999;
+    border-color: #fff;
+
+}

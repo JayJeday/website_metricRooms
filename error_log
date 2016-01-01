@@ -1,0 +1,6 @@
+[07-Nov-2015 02:03:44 UTC] PHP Fatal error:  Class 'Mail' not found in /home/jdavila67/public_html/mail.php on line 118
+[07-Nov-2015 02:13:35 UTC] PHP Fatal error:  Class 'Mail' not found in /home/jdavila67/public_html/mail.php on line 118
+[07-Nov-2015 02:14:20 UTC] PHP Fatal error:  Class 'Net_SMTP' not found in /home/jdavila67/public_html/Mail/smtp.php on line 349
+[07-Nov-2015 02:22:34 UTC] PHP Fatal error:  Class 'Net_SMTP' not found in /home/jdavila67/public_html/Mail/smtp.php on line 349
+[07-Nov-2015 02:22:37 UTC] PHP Fatal error:  Class 'Net_SMTP' not found in /home/jdavila67/public_html/Mail/smtp.php on line 349
+[07-Nov-2015 02:26:04 UTC] PHP Fatal error:  Class 'Net_SMTP' not found in /home/jdavila67/public_html/Mail/smtp.php on line 349

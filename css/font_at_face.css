@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'ChuckFive';
+    src: url('../fonts/chunkfive-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'LoversQuarrel';
+    src: url('../fonts/loversquarrel-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
