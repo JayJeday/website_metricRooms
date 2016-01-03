@@ -1,6 +1,6 @@
 <h1>Metric Rooms Website</h1>
 <p> Website</p>
-<p>Current website status: complete </p>
+
 <p>Purpose: <b>educational/ portfolio </b></p>
 <p>Programming Languages use:</p>
 <ul>
